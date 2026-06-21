@@ -1,4 +1,3 @@
-# wince-typing
 WindowsCE向けに作られたtypingゲームです｡
 説明がめんどくさいので簡単なことしか説明しません｡
 Creditはexe内に書いてあります｡
